@@ -10,7 +10,7 @@ To install mpuVim on your system, simply run the command appropriate for your op
 
 Linux & MacOS
 ```
-git clone https://github.com/mpu69/nvim_config.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/eliasuran/nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 Windows 
